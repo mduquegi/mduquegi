@@ -40,5 +40,3 @@ Francés B1 · Alianza Colombo Francesa de Manizales, 2025
 Hablemos
 
 Si tienes un proyecto, una oportunidad o simplemente quieres conversar sobre desarrollo web o IA, escríbeme a mduquegi@unal.edu.co o búscame en LinkedIn. Respondo en español, inglés o francés.
-
-<br/> <p align="center"> <img src="readme-mariana/assets/footer.svg" width="100%" alt="Gracias por pasar por aquí" /> </p>
