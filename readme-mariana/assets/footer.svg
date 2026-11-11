@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="Gracias por pasar">
+  <defs>
+    <clipPath id="c"><rect width="1200" height="110" rx="24"/></clipPath>
+    <filter id="b" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="22"/></filter>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="110" fill="#FFFBF3"/>
+    <g filter="url(#b)">
+      <circle cx="140"  cy="90" r="90" fill="#FFE9A8"/>
+      <circle cx="600"  cy="120" r="90" fill="#FFCFE0"/>
+      <circle cx="1060" cy="90" r="90" fill="#CDE4FF"/>
+    </g>
+  </g>
+  <text x="600" y="50" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#4A4458">gracias por pasar por aquí</text>
+  <text x="600" y="80" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="14" fill="#8A8299" letter-spacing="1.5">chinchiná · caldas · colombia</text>
+</svg>
